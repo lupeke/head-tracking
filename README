@@ -1,0 +1,3 @@
+This is a POC showing how to detect/track a head using Processing. 
+
+In order to run this sketch you will need the FaceDetect library (http://tokage.cafe24.com/facedetect/).
